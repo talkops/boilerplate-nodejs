@@ -1,0 +1,14 @@
+{
+  "categories": [],
+  "dockerRepository": "ghcr.io/talkops/boilerplate-nodejs",
+  "features": [],
+  "icon": null,
+  "installationSteps": [],
+  "name": "Boilerplate NodeJS",
+  "sdk": {
+    "name": "nodejs",
+    "version": "2.3.3"
+  },
+  "version": "1.0.0",
+  "website": null
+}
