@@ -1,3 +1,3 @@
 import { Extension } from 'talkops'
 
-new Extension().setName('Boilerplate Node.js').start()
+new Extension().setName('My Awesome Extension').start()
